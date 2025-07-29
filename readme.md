@@ -49,6 +49,4 @@ python insert_all.py
 
 ### 7. Data analysis
 
-```bash
-Go to notebook folder to access analysis file
-```
+SQL queries and flight statistics can be found in notebooks/data_analysis.ipynb
