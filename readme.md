@@ -46,3 +46,9 @@ python unzip_data.py
 ```bash
 python insert_all.py
 ```
+
+### 7. Data analysis
+
+```bash
+Go to notebook folder to access analysis file
+```
